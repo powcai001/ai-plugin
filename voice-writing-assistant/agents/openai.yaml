@@ -1,0 +1,7 @@
+interface:
+  display_name: "Voice Writing Assistant"
+  short_description: "Turn Chinese voice inspiration into topics, outlines, and writing materials"
+  default_prompt: "Use $voice-writing-assistant to clarify my Chinese voice notes, identify the best topic, improve the thinking, collect materials, and build an outline."
+
+policy:
+  allow_implicit_invocation: true

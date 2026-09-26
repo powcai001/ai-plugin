@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenCLI Telegram Download"
+  short_description: "Telegram Web download workflow via OpenCLI"
+  default_prompt: "Use $opencli-telegram-download to download authorized Telegram Web files into a local folder."

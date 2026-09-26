@@ -1,0 +1,4 @@
+interface:
+  display_name: "陌生领域学习与研究"
+  short_description: "用名词、动作和关系建立最小系统，并以最短实践路径验证掌握"
+  default_prompt: "使用 $learn-new-domain 提炼这个领域最重要的名词、动作和关系，再用最短实践项目帮助我理解并验证掌握。"

@@ -1,0 +1,7 @@
+interface:
+  display_name: "文章编辑助手"
+  short_description: "严格诊断、引导自改或润色中文文章，并保留作者口吻"
+  default_prompt: "使用 $article-editing-assistant 严格诊断这篇文章，保留我的观点和口吻，只指出问题并引导我自己修改，不要重写全文。"
+
+policy:
+  allow_implicit_invocation: true
