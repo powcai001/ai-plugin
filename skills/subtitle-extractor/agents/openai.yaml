@@ -1,0 +1,3 @@
+interface:
+  display_name: "Subtitle Extractor"
+  short_description: "Extract subtitles from YouTube, Bilibili, X, and local media"
